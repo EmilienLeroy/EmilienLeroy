@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emilien Leroy</h1>
-<h3 align="center">French developer<br> Fullstack developer at Savoy-international <br> Kamiapp co-founder</h3>
+<p align="center">French developer<br> Fullstack developer at Savoy-international <br> Kamiapp co-founder</p>
 
 <h3 align="center">Front End Skill</h3>
 <p align="center">
