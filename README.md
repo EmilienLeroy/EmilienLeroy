@@ -11,3 +11,9 @@ I'm passionate with new technologies and specialy by the web! I like making web 
    <img src="https://img.shields.io/twitch/status/emilienjc?style=for-the-badge&logo=twitch">
   </a>
 </h3>
+
+<h3 align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=emilienleroy">
+</h3>
+
+
