@@ -9,7 +9,9 @@ I'm passionate with new technologies and specialy by the web! I like making web 
 <p align="center">
   <samp>
     <a href="https://www.emilienleroy.fr/">Website</a> .
-    <a href="https://blog.emilienleroy.fr/">Blog</a>
+    <a href="https://blog.emilienleroy.fr/">Blog</a> .
+    <a href="https://twitter.com/EmilienLeroyIT">Twitter</a> .
+    <a href="https://www.linkedin.com/in/EmilienLeroy">LinkedIn</a> 
   </samp>
 </p>
 
